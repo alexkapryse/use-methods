@@ -83,7 +83,7 @@
     ]
   },
   "dependencies": {
-    "@types/react": "^16.9.2",
+    "@types/react": "^18.2.0",
     "immer": "^4.0.0"
   },
   "devDependencies": {
@@ -104,8 +104,8 @@
     "lodash.camelcase": "^4.3.0",
     "prettier": "^1.18.2",
     "prompt": "^1.0.0",
-    "react": "^16.9.0",
-    "react-test-renderer": "^16.9.0",
+    "react": "^18.2.0",
+    "react-test-renderer": "^18.2.0",
     "replace-in-file": "^4.1.3",
     "rimraf": "^3.0.0",
     "semantic-release": "^15.13.24",
